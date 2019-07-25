@@ -12,7 +12,7 @@ An attempt has been made to collate data from shire of all TSO variants that hav
 
 Project has been discontinued as currently there isn't a standard process implemented in the labarotary to record variants not confirmed by sanger.
 
-Furthermore, data in shire is not clearly linked to ensure samples that have had both TSO and sanger test was for the purpose of sanger confirmation e.g. some patient may have had a sanger test pre-dating introduction of TSO in service or samples could be family members whom have had a TSO panel with no sanger confirmation but was later called to do sanger test to confirm variant of another member of the family.
+Furthermore, data in shire is not clearly linked to ensure samples that have had both TSO and sanger test was for the purpose of sanger confirmation e.g. some patient may have had a sanger test pre-dating introduction of TSO in service or samples could be family members that might have had a TSO test with no sanger confirmation but was later called to do sanger test to confirm variant of another member of their family.
 
 Therefore, it would be difficult to confidently drop sanger confirmation with only anectdotal evidence.
 
