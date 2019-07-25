@@ -1,6 +1,6 @@
 # SangerDiscont
 
-# Date: 24.07.19 Authors: Seemu Ali & Laura Mccluskey
+## Date: 24.07.19 Authors: Seemu Ali & Laura Mccluskey
 
 In the laboratory, Next generation sequencing (NGS) is confirmed via Sanger sequencing for pathogenic and likely pathogenic variants. Sanger is also conducted on variants that are not clearly defined as artefact or genuine on IGV due to low read depth. Currently, sanger confirmations largely impedes the reporting TAT in the laboratory.
 
